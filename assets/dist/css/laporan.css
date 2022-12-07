@@ -1,0 +1,36 @@
+img.kiri {
+    float: left;
+    margin-right: 30px;
+    width: 150px;
+  }
+  
+  p.ex1 {
+    margin-bottom: 75px;
+  }
+  
+  p.alamat {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  h3.a {
+    font-family: Tahoma, sans-serif;
+    /* font-weight: bold; */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h2.a {
+    font-family: Tahoma, sans-serif;
+    /* font-weight: bold; */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  table.table-pinjam > tbody > tr > td {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
